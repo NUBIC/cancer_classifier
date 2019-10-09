@@ -7,3 +7,5 @@ git_source(:github) { |repo_name| "https://github.com/#{repo_name}" }
 gem 'classifier-reborn'
 gem 'pry'
 gem 'smarter_csv'
+gem 'naivebayes'
+gem 'words_counted'
